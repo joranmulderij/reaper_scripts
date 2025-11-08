@@ -1,0 +1,7 @@
+desc:Mute
+
+slider1:mute=0<0,1,1>Mute
+
+@sample
+mute ? spl0 = 0;
+mute ? spl1 = 0;

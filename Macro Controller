@@ -1,0 +1,6 @@
+desc: Macro Controller
+
+slider1:0<0,127,1>Macro 1
+slider2:0<0,127,1>Macro 2
+slider3:0<0,127,1>Macro 3
+slider4:0<0,127,1>Macro 4
